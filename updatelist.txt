@@ -1,12 +1,12 @@
 BattleSpirits	01-13-31
 plugins/BattleSpirits/plugininfo.txt	http://iceshadebattlespirits.s3.amazonaws.com/plugininfo.txt	408744
-plugins/BattleSpirits/updatelist.txt	https://www.dropbox.com/s/q42prcqha64hyh7/updatelist.txt?dl=0	110641
+plugins/BattleSpirits/updatelist.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/updatelist.txt	108119
 plugins/BattleSpirits/version.txt	http://iceshadebattlespirits.s3.amazonaws.com/version.txt	32029
 plugins/BattleSpirits/cardback.jpg	http://iceshadebattlespirits.s3.amazonaws.com/cardback.jpg	-35547
-plugins/BattleSpirits/sets/CardData.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/CardData.txt
+plugins/BattleSpirits/sets/CardData.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/CardData.txt	74151002
 plugins/BattleSpirits/sets/setimages/general/Soul_Core.png	http://iceshadebattlespirits.s3.amazonaws.com/Soul_Core.png	478076
 plugins/BattleSpirits/sets/setimages/general/BlueCore.png	http://iceshadebattlespirits.s3.amazonaws.com/BlueCore.png	-24643
-plugins/BattleSpirits/saved/start.txt	https://www.dropbox.com/s/6kd1dooad05yd5d/start.txt?dl=0
+plugins/BattleSpirits/saved/start.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/start.txt	105974
 plugins/BattleSpirits/pluginpreferences.txt	http://iceshadebattlespirits.s3.amazonaws.com/pluginpreferences.txt	419836
 plugins/BattleSpirits/sets/setimages/general/spawned.png	http://iceshadebattlespirits.s3.amazonaws.com/spawned.png	-13283
 CardGeneralURLs:
