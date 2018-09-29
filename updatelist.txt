@@ -1,4 +1,4 @@
-BattleSpirits	01-13-31
+BattleSpirits	09-29-18
 plugins/BattleSpirits/plugininfo.txt	http://iceshadebattlespirits.s3.amazonaws.com/plugininfo.txt	408744
 plugins/BattleSpirits/updatelist.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/updatelist.txt	108119
 plugins/BattleSpirits/version.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/version.txt	30025
