@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>180924</lastupdateYYMMDD>
+<lastupdateYYMMDD>180929</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/Aizame/BattleSpirit/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/Aizame/BattleSpirit/master/updatelist.txt</updateurl>
-<message>Tem coisa nova</message>
+<message>Update ready</message>
 </version>
