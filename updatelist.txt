@@ -4,6 +4,7 @@ plugins/BattleSpirits/updatelist.txt	https://raw.githubusercontent.com/Aizame/Ba
 plugins/BattleSpirits/version.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/version.txt	30025
 plugins/BattleSpirits/cardback.jpg	http://iceshadebattlespirits.s3.amazonaws.com/cardback.jpg	-35547
 plugins/BattleSpirits/sets/CardData.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/CardData.txt	74151002
+plugins/BattleSpirits/sets/CardDataBurning.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/CardDataBurning.txt	4206901
 plugins/BattleSpirits/sets/setimages/general/Soul_Core.png	http://iceshadebattlespirits.s3.amazonaws.com/Soul_Core.png	478076
 plugins/BattleSpirits/sets/setimages/general/BlueCore.png	http://iceshadebattlespirits.s3.amazonaws.com/BlueCore.png	-24643
 plugins/BattleSpirits/saved/start.txt	https://raw.githubusercontent.com/Aizame/BattleSpirit/master/start.txt	105974
