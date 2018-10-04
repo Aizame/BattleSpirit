@@ -162,3 +162,189 @@ Double Body Swap	SD31	91143853.jpg	Rare	Magic/Soul Burst	Green	4			[ Soul Burst:
 The WhirlwindNinja Kirikage	SD31	SD31-X01.png	X-Rare	Spirit	Green	7	Soul Swift, Catalyze	Catalyst, Ninja Gale, Shellman	(Flash Timing) Soul Swift (Every Attack Step) This spirit card may be summoned from your hand during the Flash Step by using 1 Soul Core(Soul Core) from your reserve to pay the entire summon cost. In that case, the cores to be put on this spirit must be moved from your reserve.	[LV1][LV2][LV3] Catalyze: Green (When Attacks) By sending Soul Core from this Spirit to your trash, immediately activate your set green Soul Burst.	[LV3] (When Attacks) Exhaust one opposing Spirit.						
 The StrangeFangShinobi Sendoukitsune	SD31	286926_1435819771253.jpg	Common	Spirit	Green	5	Catalyze	Catalyst, Ninja Gale, Blade Beast	[LV1][LV2] Catalyze: All Color (When Attacks) By sending Soul Core from this Spirit to your trash, immediately activate your set Soul Burst.	[LV2] (When Attacks) Exhaust 1 opposing spirit.							
 The WindDemon Benimatoi	SD31	286925_1435819769706.jpg	Uncommon	Spirit	Green	4		Ninja Gale, Winged Beast	[LV1][LV2] (When Attacks) Add one core from the void to your reserve. While Soul Core is on this Spirit, also exhaust one opposing Spirit.								
+The Wandering Armor	SD32	Wandering_Armed_Helmet.png	Common	Spirit	Purple	3		Evil Shadow	[LV1][LV2] (When Summoned) Draw 1 card from your deck.	[LV1][LV2] The color and symbol of this Spirit are also treated as White.							
+Ichibanspear	SD32	Ichibanspear.png	Common	Spirit	White	2		Clever Machine, Armed Machine	[LV1][LV2] The color and symbol of this Spirit is also treated as Red.	"[LV1][LV2] Treat all ""The HeavenlyDemonKing God-Sechs"" in your hand as cost 6."	[LV2] Ultra Armor: Red, White, Blue: This Spirit cannot be affected by opposing Spirit/Ultimate/Nexus/Magic effects of the specified colors.						
+The CleverMachineMusha Jako	SD32	SD32-003_The_CleverMachineMusha_Jako.jpg	Common	Spirit	White	4		Clever Machine, Armed Machine	[LV1][LV2] (When Summoned) Return one opposing Spirit to the hand. When there is Soul Core on one of your red Spirits besides this one, draw one card from your deck.	[LV1][LV2] The color and symbol of this Spirit are also treated as Red.							
+The CleverMachineMusha Itekaze	SD32	SD32-004.jpg	Master Rare	Spirit	White	6	Soul Burst	Clever Machine, Armed Machine	[ Soul Burst: After your Spirit is depleted/destroyed by the opponent ]	Return one opposing Spirit to the hand. After that effect resolves, summon this Spirit card without paying the cost.	[LV1][LV2][LV3] The color and symbol of this Spirit are also treated as Red/Purple.	[LV2][LV3] While there is Soul Core on this Spirit, all of your Spirits with 2 or more colors get +3000 BP.					
+Origamiantler	SD32	SD32-005_Origamiantler.jpg	Uncommon	Brave	Purple	5		Spiritual Beast, Machine Beast	Cost 4 or more	[When Braved] (When Attacks) Move one core from any opposing Spirits to the reserve. After that, add one core from the void to your white Spirit with Soul Core on it.							
+The Six Heaven Castle Dyed in Red	SD32	The_Castle_Dyed_In_Red.png	Common	Nexus	Red	4			[LV1][LV2] Also treat the color and symbol of this nexus as purple.	[LV2] (Your Draw Step) Increase the number of cards you draw by +1. After you draw, discard one card from your hand.							
+Demon King Blade	SD32	SD32-007.jpg	Uncommon	Spirit	White	5			[ Soul Burst: After an opposing Spirit attacks ]	For each color of symbol on your field, refresh one of your Spirits. After that, by paying the cost, activate this card's (Flash) effect.	(Flash) Return one opposing Spirit to the hand. While there is Soul Core on your Red/Purple Spirit, additionally, draw one card from your deck.						
+The DarkKingGeneral Darkness-Griffon	SD32	SD32-X01.jpg	X-Rare	Spirit	White/Purple	9		Clever Machine, Armed Machine	[LV1][LV2][LV3] (When Summoned) For every color of symbol on your field, return one opposing Spirit or Ultimate to the hand. When Soul Core is used to pay the cost, all core from the Spirits/Ultimates returned to the hand by this effect goes to the trash rather than the reserve.	[LV2][LV3] (When Attacks) Once per turn, by destroying an exhausted opposing Spirit, refresh this Spirit.							
+The HeavenlyDemonKing God-Sechs	SD32	SD32-X02.jpg	X-Rare	Spirit	All	8	Six Heaven's Rush	Heavenly Demon King	[LV1][LV2][LV3] This Spirit is unaffected by opposing Spirit/Magic effects.	[ Six Heaven's Rush (Condition:Three Symbol Colors) ] While you have three or more colors of symbols, all opposing Spirits and Ultimates can't refresh.	[LV2][LV3] (Your Attack Step) While there is Soul Core on this Spirit, when your Spirits with 2 or more colors attack, send 2 cores from any opposing Spirits/Ultimates to the trash.						
+Battleship-Moa	SD32	78734623.jpg	Promo	Spirit	White	5		Machine Beast	[LV1][LV2] Neither player's decks can be discarded.	[LV1][LV2] (When this spirit attacks) Discard 1 opposing set Burst. When you have a Burst set, also return 1 opposing cost 3 or lower Spirit to their hand.							
+The SengokuPrincess Anko	BSC20	BSC20-015.jpg	Common	Spirit	Yellow	3		Fairy, War Princess	[LV1][LV2] (Start of Your Attack Step) While Soul Core is on this Spirit, by revealing one Magic card or cost 3 Spirit card in your hand and removing it from game, draw 1 card from your deck. You may play the revealed cards as if they were in your hand until the end of game.								
+The Blue Swords WisdomKing	BSC20	BSC20-018.png	Uncommon	Spirit	Blue	5		Vassal, Fighting Spirit	"[LV1][LV2] (When Attacks) Discard 3 cards from the top of your opponent's deck. While Soul Core is on this Spirit, additionally, return one Spirit card in the family ""Fighting Spirit"" from your trash to your hand."	[LV2] (When Attacks) Destroy one opposing Spirit with cost 4 or less.							
+Inugami	BSC20	BSC20-017.png	Rare	Spirit	Yellow	5		Youkai	[LV1][LV2][LV3] (Your Attack Step) While there is Soul Core on this Spirit, whenever you use a magic card, draw 1 card.	[LV2][LV3] (When Destroyed) By discarding 1 magic card from your hand, this spirit remains on the field, refreshed.							
+Fuurin	BSC20	BSC20-014.png	Common	Spirit	Yellow	2		Youkai	[LV1][LV2][LV3] (When Destroyed by the Opponent) Return one magic card from your trash to your hand.								
+The CleverMachineMusha Shiranui	BSC20	BSC20-012.png	Rare	Spirit	White	5	Ultra Armor	Clever Machine, Armed Machine	[LV1][LV2] Ultra Armor: Red/Purple/White: This Spirit cannot be affected by opposing Spirit/Ultimate/Nexus/Magic effects of the specified colors.	[LV1][LV2] (Your Opponent's Attack Step) While there is Soul Core on this Spirit, this Spirit can block while exhausted.	[LV2] (When Blocks) This Spirit gains +5000 BP.						
+The CleverMachineMusha Zantetsu	BSC20	BSC20-011.png	Uncommon	Spirit	White	3	Ultra Armor	Clever Machine, Armed Machine	[LV1][LV2] Ultra Armor Red: This Spirit cannot be affected by opposing Spirit/Ultimate/Nexus/Magic effects of the specified colors.	"[LV2] While there is Soul Core on this Spirit, all your White Spirits gain ""Ultra Armor: Red""."							
+The WindDemon Amatsuba	BSC20	BSC20-007.jpg	Uncommon	Spirit	Green	4	High Speed (Swift)	Ninja Gale, Winged Beast	High Speed (Flash) This Spirit card in your hand can be summoned by paying the cost and placing cores on it from your Reserve.	[LV1][LV2] (When Summoned) Refresh one of your Spirits with cost 5 or less. When Soul Core is used to pay the summon cost, instead, refresh one of your Spirits.							
+The SnakeArtsMagician Zuda	BSC20	BSC20-005.png	Uncommon	Spirit	Purple	4		Nightling, Dark Snake	[LV1][LV2][LV3] (When Summoned) When Soul Core is used to pay the summon cost, draw 1 card from your deck	[LV2][LV3] When a cost 6 or more Spirit is summoned from your trash, move all but 1 core from one opposing Spirit or Ultimate to the reserve.							
+The ArmorFalcon Suiran-Hawk	BSC20	BSC20-021.jpg	Master Rare	Spirit	Green	1	High Speed (Swift)	Ninja Gale, Winged Beast	(Flash) High Speed - This brave card in your hand can be summoned by paying the cost and placing cores on it from your reserve.	[When Braved] While Soul Core is on this Spirit, this Spirit gains 1 green symbol.							
+The Necromancer Mumei	BSC20	BSC20-006.png	Rare	Spirit	Purple	6		Nightling	Flash (Either Attack Step) By paying the summoning cost using your Soul Core, summon this Spirit card from your trash.	[LV1][LV2][LV3] (When Summoned) Destroy one opposing exhausted Spirit with 10000 BP or less.							
+Moon Rabbit	BSC20	BSC20-016.jpg	Uncommon	Spirit	Yellow	4	Holy Life	Imaginary Beast	[LV1][LV2][LV3] Holy Life (When Attacks) When the opponent's life is decreased by this Spirit's Attack, put one core from the Void to your Life.	"[LV2] (Your Attack Step) While Soul Core is on this Spirit, the number of lives added from your Spirits ""Holy Life"" effects become 2."							
+The CleverMachineBeast Shoujou	BSC20	BSC20-010.jpg	Common	Spirit	White	3		Clever Machine, Machine Beast	[LV1][LV2] (Opponent's Turn) When the opponent's hand increases due to any player's effects, place 1 core from the void to one of your white Spirits. While there is Soul Core on this Spirit, additionally, refresh one of your white Spirits.								
+The CleverMachineBeast Yoroiphant	BSC20	BSC20-013.jpg	Uncommon	Spirit	White	5		Clever Machine, Machine Beast	[LV1][LV2][LV3] Also treat this Spirit's color and symbol as Purple.	[LV2][LV3] (When Attacks) Return one opposing Nexus to the bottom of the deck. While Soul Core is on this Spirit, additionally, return one opposing Spirit or Ultimate with cost equal to or less than this Spirit's to the hand.							
+Dream Chest (Revival)	BSC22	Dream_chest.jpg	Common	Magic	White	5			(Flash Step)(Your Main Phase) Move target spirit to the top of its owner's deck. If Soul Core is used to pay the cost, instead, move target Ultimate to the top of its owner's deck.								
+Matchra (Revival)	BSC22	56_315955.jpg	Common	Spirit	Green	3		Parasite	[LV1][LV2] (When Summoned) If Soul Core is used to pay the summon cost, discard one card from your opponent's hand without looking at the contents.								
+Verdant Release Technique	BSC20	BSC20-022.png	Common	Magic	Green	5			(Flash) Exhaust one opposing Spirit or Ultimate. When Soul Core is used to pay the cost, additionally, add 2 cores from the void to one of your Spirits.								
+The ArmoredMothShinobi Tobikage	BSC20	BSC20-009.png	Rare	Spirit	Green	6		Vassal, Ninja Gale, Shellman	"[LV1][LV2] (When Summoned) Add one core from the void to each of your Spirits in the ""Ninja Gale"" and ""Shellman"" families."	[LV2] (Your Attack Step) While there is Soul Core on this Spirit, your opponent cannot activate their set burst.							
+The SwordArmedGeneral Ash-Lion	BSC20	BSC20-020.png	Rare	Brave	Red	5		Emperor beast	Cost 5 or more	[When Braved] (When Attacks) Your opponent must destroy one of their Spirits/Ultimates with 7000 BP or less that does not have Soul Core on it.							
+The FlameSacredBeast Homurawolf	BSC20	BSC20-002.png	Master Rare	Spirit	Red	6		Vassal, Emperor Beast	[LV1][LV2][LV3] (When Summoned) Destroy one opposing Spirit or Ultimate with 10000 BP or less. When Soul Core is used to pay the summon cost, additionally, you can summon one red Brave card from your hand without paying the cost.	[When Braved] [LV2][LV3] (Every Attack Step) When your opponent's Spirits are destroyed by the effects of your Spirits or Ultimates, draw 2 cards from your deck.							
+The StrangeFangShinobi Tachikazewolf	BSC20	BSC20-008.jpg	Uncommon	Spirit/Burst	Green	5	Burst	Ninja Gale, Blade Beast	[ Burst: After Your Life is Decreased ]	Summon this spirit without paying the cost. While there is Soul Core in the reserve, additionally, add 2 cores from the void to this Spirit.	[LV2][LV3] (When Attacks) Exhaust 1 opposing Spirit.						
+The BlueFlamesWisdomKing Agnius	BSC20	BSC20-X03.jpg	X-Rare	Spirit	Blue	8		Fighting Spirit	This Spirit card in your hand can be summoned at no cost after your opponent activates their set burst.	"[LV1][LV2] Your set burst can also activate with the conditions ""After Your Life is Decreased"" and ""When Your Spirit is Depleted/Destroyed by the Opponent""."	[LV2] (When Attacks) While Soul Core is on this Spirit, destroy one opposing Spirit or Ultimate with cost equal to or lesser than this Spirit's cost.						
+Bone-Weasel	BSC20	BSC20-004.png	Uncommon	Spirit	Purple	2		Zombie	[LV2] (Start of Opponent's Attack Step) Your opponent sends a core from one of their Spirits to the Reserve. While there is Soul Core on this Spirit, instead, your opponent sends 2 cores from one of their Spirits to the Reserve.								
+The OgreDeity Basara	BSC20	BSC20-X02.png	X-Rare	Spirit	Purple	8		Ogre Wizard, Zombie	[LV1][LV2][LV3] (When Summoned) For each core on this Spirit, move 1 core from 1 opposing Spirit or Ultimate to the Reserve. When a Spirit or Ultimate with Soul Core on it was depleted, move all the cores in the opposing Reserve to the Trash.	[LV2][LV3] (Every Attack Step) When one or more of your Purple Spirits become exhausted, move 1 core from 1 opposing Spirit or Ultimate to the Reserve.							
+The FerociousDragonGeneral Hagundragon	BSC20	BSC20-003.png	Master Rare	Spirit	Red	8		War Dragon, Ancient Dragon	[LV1][LV2][LV3] Flash Evolution You may move any number of cores from Spirits you control to this Spirit.	[LV1][LV2][LV3] (Your Attack Step) Give your Spirit with Soul Core on it +10000 BP.	[LV2][LV3] (Every Attack Step) When your Spirits other than this Spirit are depleted through Evolution, this Spirit is refreshed.						
+The BattleArrowDragon Byouha	BSC20	BSC20-001.png	Uncommon	Spirit	Red	4	Evolution (Awaken)	Vassal, War Dragon	[LV1][LV2] Flash Evolution - You may move any number of cores from Spirits you control to this Spirit.	[LV2] (Every Attack Step) When your Spirits other than this Spirit are depleted through Evolution, destroy one opposing Spirit with 4000 BP or less. When Soul Core is on this Spirit, additionally, draw 2 cards from your deck.							
+The SengokuGoldDragon Ragou	BSC20	BSC20-X01.png	X-Rare	Spirit	Red	5	Evolution (Awaken)	Vassal, War Dragon	[LV1][LV2][LV3] Flash Evolution - You may move any number of cores from Spirits you control to this Spirit.	[LV1][LV2][LV3] (Every Attack Step) When your Spirits other than this Spirit are depleted through Evolution, you can summon one Spirit card in your hand with Evolution without paying the cost.	[LV2][LV3] (When Attacks) Destroy one opposing Spirit with 5000 BP or less.						
+The DragonEmperor Siegfried (Revival)	BSC22																
+The SevenShogun Desperado	BSC22																
+The Duke 	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
+	BSC22																
